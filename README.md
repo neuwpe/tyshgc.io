@@ -1,0 +1,4 @@
+tyshgc.io
+=========
+
+new blog
